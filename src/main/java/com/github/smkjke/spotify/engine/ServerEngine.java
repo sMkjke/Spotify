@@ -1,4 +1,4 @@
-package advisor.engine;
+package com.github.smkjke.spotify.engine;
 
 import com.sun.net.httpserver.HttpServer;
 

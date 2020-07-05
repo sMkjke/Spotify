@@ -1,10 +1,9 @@
-package advisor.manager;
+package com.github.smkjke.spotify.manager;
 
-import advisor.command.ACommandHandler;
-import advisor.command.CommandType;
-import advisor.engine.SpotifyEngine;
+import com.github.smkjke.spotify.command.ACommandHandler;
+import com.github.smkjke.spotify.command.CommandType;
+import com.github.smkjke.spotify.engine.SpotifyEngine;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class CommandManager {

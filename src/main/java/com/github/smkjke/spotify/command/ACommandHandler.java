@@ -1,6 +1,6 @@
-package advisor.command;
+package com.github.smkjke.spotify.command;
 
-import advisor.engine.SpotifyEngine;
+import com.github.smkjke.spotify.engine.SpotifyEngine;
 import org.apache.http.client.utils.URIBuilder;
 
 import java.io.IOException;

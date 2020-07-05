@@ -1,9 +1,9 @@
-package advisor.command;
+package com.github.smkjke.spotify.command;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import advisor.engine.SpotifyEngine;
+import com.github.smkjke.spotify.engine.SpotifyEngine;
 
 import java.io.IOException;
 

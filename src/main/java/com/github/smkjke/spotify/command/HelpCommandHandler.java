@@ -1,6 +1,6 @@
-package advisor.command;
+package com.github.smkjke.spotify.command;
 
-import advisor.engine.SpotifyEngine;
+import com.github.smkjke.spotify.engine.SpotifyEngine;
 
 public class HelpCommandHandler extends ACommandHandler {
 
@@ -8,7 +8,7 @@ public class HelpCommandHandler extends ACommandHandler {
         this.loginRequired = false;
     }
 
-    private static final String helpMessage = "The program is connecting to spotify" +
+    private static final String helpMessage = "The program is connecting to com.github.smkjke.spotify" +
             " API to get info about your favourite music";
 
     @Override

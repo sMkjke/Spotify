@@ -1,4 +1,4 @@
-package advisor.command;
+package com.github.smkjke.spotify.command;
 
 public class Paging {
 

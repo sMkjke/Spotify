@@ -1,6 +1,6 @@
-package advisor.command;
+package com.github.smkjke.spotify.command;
 
-import advisor.engine.SpotifyEngine;
+import com.github.smkjke.spotify.engine.SpotifyEngine;
 
 public class ExitCommandHandler extends ACommandHandler {
 

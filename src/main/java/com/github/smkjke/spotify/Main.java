@@ -1,8 +1,8 @@
-package advisor;
+package com.github.smkjke.spotify;
 
-import advisor.engine.ServerEngine;
-import advisor.engine.SpotifyEngine;
-import advisor.manager.CommandManager;
+import com.github.smkjke.spotify.engine.ServerEngine;
+import com.github.smkjke.spotify.engine.SpotifyEngine;
+import com.github.smkjke.spotify.manager.CommandManager;
 
 import java.util.Scanner;
 

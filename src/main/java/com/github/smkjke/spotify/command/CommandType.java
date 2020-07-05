@@ -1,4 +1,4 @@
-package advisor.command;
+package com.github.smkjke.spotify.command;
 
 import java.util.HashMap;
 import java.util.Map;

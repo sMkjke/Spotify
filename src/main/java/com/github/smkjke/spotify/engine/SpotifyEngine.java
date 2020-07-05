@@ -1,4 +1,4 @@
-package advisor.engine;
+package com.github.smkjke.spotify.engine;
 
 import com.google.gson.JsonObject;
 import org.apache.http.client.utils.URIBuilder;
@@ -50,7 +50,7 @@ public class SpotifyEngine {
 
         System.out.println("use this link to request the access code: ");
         URIBuilder uriBuilder = new URIBuilder();
-        uriBuilder.setScheme("https").setHost("accounts.spotify.com").setPath("/authorize")
+        uriBuilder.setScheme("https").setHost("accounts.com.github.smkjke.spotify.com").setPath("/authorize")
                 .setParameter(CLIENT_ID, client_id)
                 .setParameter(REDIRECT_URI, redirect_uri)
                 .setParameter(RESPONSE_TYPE, "code");

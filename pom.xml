@@ -20,7 +20,7 @@
         <maven.compiler.target>12</maven.compiler.target>
     </properties>
     <groupId>com.github.smkjke</groupId>
-    <artifactId>com.github.smkjke.spotify</artifactId>
+    <artifactId>spotify</artifactId>
     <packaging>jar</packaging>
     <version>1.0.1</version>
     <dependencies>
